@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sobuj.here.420@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sobuj.here.420%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Direct Compose" /></a>
-  <a href="https://www.facebook.com/sobuj.here" target="_blank"><img src="https://img.shields.io/badge/Facebook-sobuj.here-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" /></a>
+
   <a href="https://github.com/sobuj-here"><img src="https://img.shields.io/badge/GitHub-sobuj--here-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/sobuj-here?tab=repositories"><img src="https://img.shields.io/badge/Repositories-All%20Public%20Projects-0078D4?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" /></a>
 </p>
@@ -155,7 +155,6 @@ A complete directory of all publicly accessible repositories and open-source pro
 ## 📬 Connect With Me
 
 - 📧 **Email**: [sobuj.here.420@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sobuj.here.420@gmail.com)
-- 🌐 **Facebook Profile**: [facebook.com/sobuj.here](https://www.facebook.com/sobuj.here)
 - 🐙 **GitHub Profile**: [github.com/sobuj-here](https://github.com/sobuj-here)
 
 ---
