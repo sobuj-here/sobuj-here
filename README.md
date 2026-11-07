@@ -153,7 +153,7 @@ A complete directory of all publicly accessible repositories and open-source pro
 
 ## 📬 Connect With Me
 
-- 📧 **Direct Email**: [sobuj.here.420@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sobuj.here.420@gmail.com) *(Click to open Gmail directly in browser)*
+- 📧 **Email**: [sobuj.here.420@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sobuj.here.420@gmail.com)
 - 🌐 **Facebook Profile**: [facebook.com/sobuj.here](https://www.facebook.com/sobuj.here)
 - 🐙 **GitHub Profile**: [github.com/sobuj-here](https://github.com/sobuj-here)
 
