@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sobuj.here.420@gmail.com"><img src="https://img.shields.io/badge/Email-sobuj.here.420%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sobuj.here.420@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sobuj.here.420%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Direct Compose" /></a>
+  <a href="https://www.facebook.com/sobuj.here" target="_blank"><img src="https://img.shields.io/badge/Facebook-sobuj.here-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" /></a>
   <a href="https://github.com/sobuj-here"><img src="https://img.shields.io/badge/GitHub-sobuj--here-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/sobuj-here?tab=repositories"><img src="https://img.shields.io/badge/Repositories-All%20Public%20Projects-0078D4?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" /></a>
 </p>
@@ -147,6 +148,14 @@ A complete directory of all publicly accessible repositories and open-source pro
 | [**EXEL-Sheet-Template**](https://github.com/sobuj-here/EXEL-Sheet-Template) | Financial Spreadsheets | Dynamic Array Formulas, Excel | [**Sheets Template**](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy) • [**Repo**](https://github.com/sobuj-here/EXEL-Sheet-Template) |
 | [**Assignment_Cover_Pages**](https://github.com/sobuj-here/Assignment_Cover_Pages) | Document Templates | PDF, Print-Ready A4 Formats | [**View Templates**](https://github.com/sobuj-here/Assignment_Cover_Pages) |
 | [**Presentation**](https://github.com/sobuj-here/Presentation) | Slide Presentations | PowerPoint Slide Decks (.pptx) | [**View Slide Decks**](https://github.com/sobuj-here/Presentation) |
+
+---
+
+## 📬 Connect With Me
+
+- 📧 **Direct Email**: [sobuj.here.420@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sobuj.here.420@gmail.com) *(Click to open Gmail directly in browser)*
+- 🌐 **Facebook Profile**: [facebook.com/sobuj.here](https://www.facebook.com/sobuj.here)
+- 🐙 **GitHub Profile**: [github.com/sobuj-here](https://github.com/sobuj-here)
 
 ---
 
