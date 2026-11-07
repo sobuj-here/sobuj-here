@@ -105,29 +105,30 @@
     </td>
   </tr>
 
-  <!-- Admit Card Editor Card -->
+    <!-- Mess Meal Tracker Spreadsheet Card -->
   <tr>
     <td width="32%" align="center" valign="middle">
-      <a href="https://sobuj-here.github.io/admit-card-editor/">
-        <img src="https://img.shields.io/badge/Live%20App-Admit%20Card%20Editor-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" width="90%" style="border-radius: 8px;" alt="Admit Card Editor" />
+      <a href="https://github.com/sobuj-here/EXEL-Sheet-Template">
+        <img src="https://raw.githubusercontent.com/sobuj-here/EXEL-Sheet-Template/main/images/mess-tracker-preview.png" width="100%" style="border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.25);" alt="Mess Tracker Preview" />
       </a>
     </td>
     <td width="68%" valign="top">
-      <h3>🌐 <a href="https://github.com/sobuj-here/admit-card-editor">Admit Card Editor & Generator — Live Web Application</a></h3>
-      <p>A client-side web application for generating, previewing, and customizing official university exam admit cards directly inside the web browser with zero server upload dependencies.</p>
+      <h3>📊 <a href="https://github.com/sobuj-here/EXEL-Sheet-Template">Mess Meal & Bazar Tracker — Automated Spreadsheet System</a></h3>
+      <p>An all-in-one dynamic financial tracking template designed for student hostels, bachelor apartments, and shared mess expense settlements.</p>
       <ul>
-        <li><b>Instant Live Preview:</b> Real-time data binding between input form fields and high-fidelity admit card layout.</li>
-        <li><b>Client-Side Privacy:</b> 100% browser-based rendering without uploading sensitive student data to any remote server.</li>
-        <li><b>Print & Export Ready:</b> Formatted specifically for standard A4 document printing with custom typography.</li>
+        <li><b>Dynamic Calendar Engine:</b> Automatically generates 1st-to-30th/31st month dates with dynamic array formulas.</li>
+        <li><b>Automated Cost Settlement:</b> Real-time meal rate calculation, per-head utility splits, and individual balance ledgers.</li>
+        <li><b>Multi-Platform Support:</b> 100% compatible with Microsoft Excel (2016-365) and Google Sheets.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Platform-GitHub%20Pages-2ea44f?style=flat-square&logo=githubpages&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stack-JavaScript%20ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/UI-CSS3%20Print%20Media-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Microsoft%20Excel-Template%20Ready-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Sheets-One--Click%20Copy-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+        <img src="https://img.shields.io/badge/Formulas-Dynamic%20Arrays-blue?style=flat-square" />
       </p>
       <p>
-        <a href="https://sobuj-here.github.io/admit-card-editor/"><b>⚡ Launch Web App</b></a> • 
-        <a href="https://github.com/sobuj-here/admit-card-editor"><b>📂 Source Code</b></a>
+        <a href="https://github.com/sobuj-here/EXEL-Sheet-Template"><b>📂 Repository</b></a> • 
+        <a href="https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy"><b>⚡ Copy in Google Sheets</b></a> • 
+        <a href="https://github.com/sobuj-here/EXEL-Sheet-Template/raw/main/Mess%20Meal%20%26%20Bazar%20Tracker.xlsx"><b>📥 Download .xlsx</b></a>
       </p>
     </td>
   </tr>
