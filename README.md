@@ -1,82 +1,132 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=Md.%20Sobuj%20Ali&fontSize=42&fontAlignY=36&desc=Cross-Platform%20%26%20Mobile%20Engineer%20%7C%20Applied%20Mathematics&descSize=18&descAlignY=58" width="100%" alt="Header" />
+</div>
 
-# Md. Sobuj Ali
-**Mathematics Student & Cross-Platform Software Developer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=620&lines=Flutter+%26+Dart+Cross-Platform+Engineer;Native+Android+Developer+(Kotlin+%26+Room);Applied+Mathematics+%26+Computational+Modeling;Offline-First+%26+Privacy-First+Engineering" alt="Typing SVG" />
+</p>
 
-Turning mathematical logic, computational modeling, and real-world workflows into clean, reliable software.
+<p align="center">
+  <a href="mailto:sobuj.here.420@gmail.com"><img src="https://img.shields.io/badge/Email-sobuj.here.420%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/sobuj-here"><img src="https://img.shields.io/badge/GitHub-sobuj--here-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/sobuj-here?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Public%20Projects-0078D4?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" /></a>
+</p>
+
+---
+
+## 👨‍💻 Who Am I?
+
+- 🎓 **Applied Mathematics**: Student specializing in **Mathematical Modeling**, **Numerical Computation**, and **Algorithm Optimization**.
+- 📱 **Cross-Platform & Native Mobile**: Crafting production-grade mobile applications using **Flutter (Dart)** for cross-platform versatility and **Kotlin (Android SDK)** for native performance.
+- 🛡️ **Privacy & Local-First Advocate**: Dedicated to developing software that guarantees user data sovereignty—featuring **AES-256 local encryption**, **zero telemetry**, and **strict accounting invariants**.
+- ⚙️ **Practical Engineering**: Architect of complete, battle-tested management ecosystems (**MessFlow**, **Poyshakori**, **Mess Meal & Bazar Tracker**) that automate real-world financial logistics.
+
+---
+
+## 🛠️ Tech Stack & Tooling
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,python,cpp,latex,git,github,vscode,linux,bash&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</div>
 
 <br/>
 
-[![Flutter](https://img.shields.io/badge/Flutter-Cross--Platform-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Kotlin](https://img.shields.io/badge/Kotlin-Android%20Native-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Firebase](https://img.shields.io/badge/Firebase-Backend%20%26%20Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Python](https://img.shields.io/badge/Python-Scientific%20Computing-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![License](https://img.shields.io/badge/License-Open%20Source-blue?style=flat-square)](https://github.com/sobuj-here?tab=repositories)
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Mobile & Cross-Platform** | **Flutter 3.24+**, **Dart 3.5+**, **Kotlin 1.9+**, Android SDK, Jetpack, Room SQLite, Material Design 3, ViewBinding |
+| **Backend & Cloud Services** | **Firebase Firestore** (Offline Persistence), **Firebase Auth**, Cloudinary API, Local SQLite |
+| **Mathematics & Scientific Tools** | **Python**, NumPy, Pandas, Matplotlib, LaTeX, Advanced Excel & Google Sheets Modeling |
+| **Development & Workflow** | Git, GitHub, Android Studio, VS Code, Linux, Windows Terminal, Gradle |
 
 ---
 
-</div>
-
-### 📌 About Me
-
-- 🎓 Studying **Mathematics** with a primary focus on **Mathematical Modeling**, **Numerical Computation**, and **Algorithm Analysis**.
-- 📱 Developing cross-platform and native mobile applications with **Flutter (Dart)**, **Kotlin (Android)**, and **Firebase**.
-- 🛡️ Passionate about **offline-first architectures, data sovereignty, and reliable accounting systems**.
-- 📊 Experienced in building practical automation tools for mess management, administrative documentation, and financial record-keeping.
-
----
-
-### 🛠️ Skills & Technologies
-
-- **Mobile & Cross-Platform:** `Flutter` • `Dart` • `Kotlin` • `Android SDK` • `Jetpack` • `Room SQLite` • `Material Design 3`
-- **Backend & Cloud:** `Firebase Firestore` • `Firebase Auth` • `Offline Persistence` • `Cloudinary API`
-- **Mathematics & Scientific Computing:** `Python` • `NumPy` • `Pandas` • `Matplotlib` • `LaTeX` • `Excel / Spreadsheet Modeling`
-- **Languages:** `Dart` • `Kotlin` • `Python` • `C++` • `LaTeX` • `Bash` • `Markdown`
-- **Tools & Workflow:** `Git` • `GitHub` • `Android Studio` • `VS Code` • `Linux` • `Windows`
-
----
-
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
+  <!-- MessFlow Card -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/sobuj-here/MessFlow">🚀 MessFlow (v2.1.2)</a></h3>
-      <p>A smart, full-featured mess and hostel management application built with Flutter and Firebase. Features real-time meal tracking (1–31 day matrix), bazaar duty scheduling, permanent room rent persistence, multi-currency support, 5-language localization, and a 24-hour month-end close recovery window.</p>
-      <p align="center">
+    <td width="30%" align="center" valign="middle">
+      <a href="https://github.com/sobuj-here/MessFlow">
+        <img src="https://raw.githubusercontent.com/sobuj-here/MessFlow/main/screenshots/dashboard.png" width="100%" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.25);" alt="MessFlow Dashboard" />
+      </a>
+    </td>
+    <td width="70%" valign="top">
+      <h3>🚀 <a href="https://github.com/sobuj-here/MessFlow">MessFlow — Smart Mess & Hostel Management Application</a></h3>
+      <p>A full-featured digital solution for students and bachelor messes to track daily meals, manage bazaar expenses, automate meal rate calculations, persist room rents, and archive monthly financial records.</p>
+      <ul>
+        <li><b>Dynamic Meal Matrix:</b> Complete 1-to-31 day meal tracking with live meal rate recalculation engine.</li>
+        <li><b>Bazaar Scheduling:</b> Manager duty assignments, budget limits, and negative expense refunds.</li>
+        <li><b>Fiscal Close & Safety:</b> Permanent room rent persistence and a 24-hour restore window for closed months.</li>
+        <li><b>Multi-Language:</b> Fully localized across 5 languages (English, বাংলা, हिन्दी, العربية, Español).</li>
+      </ul>
+      <p>
         <img src="https://img.shields.io/badge/Flutter-3.24+-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Dart-3.5+-0175C2?style=flat-square&logo=dart&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Android-APK%20Ready-brightgreen?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Release-v2.1.2-brightgreen?style=flat-square&logo=android&logoColor=white" />
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/sobuj-here/Poyshakori">📱 Poyshakori (v4.0)</a></h3>
-      <p>A 100% offline-first, private personal finance and double-entry accounting application for Android. Features AES-256 encrypted backups, biometric app lock, multi-wallet management (Cash, Bank, bKash, Nagad), zero internet permissions, and strict mathematical balance invariants.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Kotlin-1.9.0-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Room-SQLite-F58220?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Material-3-005BBB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Security-AES--256-107C41?style=flat-square" />
+      <p>
+        <a href="https://github.com/sobuj-here/MessFlow"><b>📂 Explore Code</b></a> • 
+        <a href="https://github.com/sobuj-here/MessFlow/releases"><b>📥 Download APK</b></a>
       </p>
     </td>
   </tr>
+
+  <!-- Poyshakori Card -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/sobuj-here/EXEL-Sheet-Template">📊 Mess Meal & Bazar Tracker</a></h3>
-      <p>An automated spreadsheet system engineered for bachelor mess accounting. Features dynamic month calendar arrays, real-time meal rate calculation, itemized grocery logs, utility cost splitting, and individual member balance ledgers.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Microsoft%20Excel-Template-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google%20Sheets-Automated-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
-        <img src="https://img.shields.io/badge/Accounting-Dynamic-blue?style=flat-square" />
+    <td width="30%" align="center" valign="middle">
+      <a href="https://github.com/sobuj-here/Poyshakori">
+        <img src="https://raw.githubusercontent.com/sobuj-here/Poyshakori/main/screenshots/dashboard%20_.png" width="100%" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.25);" alt="Poyshakori Dashboard" />
+      </a>
+    </td>
+    <td width="70%" valign="top">
+      <h3>📱 <a href="https://github.com/sobuj-here/Poyshakori">Poyshakori — Private Offline Personal Finance & Accounting</a></h3>
+      <p>A 100% offline-first personal accounting and wealth management app for Android engineered around strict double-entry balance conservation.</p>
+      <ul>
+        <li><b>Zero Network Permissions:</b> Physically lacks <code>INTERNET</code> permission—zero telemetry, zero server tracking.</li>
+        <li><b>Biometric & Encryption:</b> Biometric app lock and AES-256 database backups with PBKDF2 key derivation.</li>
+        <li><b>Multi-Account Balances:</b> Real-time balance calculations across Cash, Bank, and Mobile Wallets (bKash, Nagad).</li>
+        <li><b>Budgeting & Debts:</b> Custom category spending limits, debt tracking, and visual Canvas donut reports.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-1.9.0-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Room-SQLite%20(v7)-F58220?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Material-3-005BBB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Security-AES--256-107C41?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/sobuj-here/Poyshakori"><b>📂 Explore Code</b></a> • 
+        <a href="https://github.com/sobuj-here/Poyshakori/raw/main/poyshakori-v4.0.apk"><b>📥 Download APK (v4.0)</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/sobuj-here/admit-card-editor">🪪 Admit Card Editor</a></h3>
-      <p>An administrative software utility designed for templating, formatting, and generating student examination admit cards with structured field management and printable output.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Utility-Document%20Automation-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tool-Open%20Source-blue?style=flat-square" />
+  </tr>
+
+  <!-- Mess Meal Tracker Spreadsheet Card -->
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <a href="https://github.com/sobuj-here/EXEL-Sheet-Template">
+        <img src="https://raw.githubusercontent.com/sobuj-here/EXEL-Sheet-Template/main/images/mess-tracker-preview.png" width="100%" style="border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.25);" alt="Mess Tracker Preview" />
+      </a>
+    </td>
+    <td width="70%" valign="top">
+      <h3>📊 <a href="https://github.com/sobuj-here/EXEL-Sheet-Template">Mess Meal & Bazar Tracker — Automated Spreadsheet Template</a></h3>
+      <p>An all-in-one dynamic financial spreadsheet template designed for student hostels, bachelor apartments, and shared mess expense settlements.</p>
+      <ul>
+        <li><b>Dynamic Calendar:</b> Automatically generates 1st-to-30th/31st month dates with Excel sequence arrays.</li>
+        <li><b>Automated Math:</b> Real-time meal rate calculation, per-head utility cost splits, and deposit vs. due ledgers.</li>
+        <li><b>Multi-Platform:</b> Fully compatible with Microsoft Excel (2016-365) and Google Sheets.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Microsoft%20Excel-Template%20Included-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Sheets-One--Click%20Copy-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+        <img src="https://img.shields.io/badge/Formulas-Dynamic%20Arrays-blue?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/sobuj-here/EXEL-Sheet-Template"><b>📂 Repository</b></a> • 
+        <a href="https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy"><b>⚡ Copy in Google Sheets</b></a> • 
+        <a href="https://github.com/sobuj-here/EXEL-Sheet-Template/raw/main/Mess%20Meal%20%26%20Bazar%20Tracker.xlsx"><b>📥 Download .xlsx</b></a>
       </p>
     </td>
   </tr>
@@ -84,13 +134,18 @@ Turning mathematical logic, computational modeling, and real-world workflows int
 
 ---
 
-### 📬 Connect
+## 📊 GitHub Analytics
 
-- 🌐 GitHub: [@sobuj-here](https://github.com/sobuj-here)
-- 📁 View all repositories: [Explore Repositories](https://github.com/sobuj-here?tab=repositories)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sobuj-here&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=sobuj-here&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
 <div align="center">
+  <sub>Designed & engineered with precision by <b><a href="https://github.com/sobuj-here">Md. Sobuj Ali</a></b></sub>
+  <br/>
   <sub><i>"Simplicity is the prerequisite for reliability."</i> — Edsger W. Dijkstra</sub>
 </div>
