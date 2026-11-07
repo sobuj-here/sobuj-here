@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=Md.%20Sobuj%20Ali&fontSize=42&fontAlignY=36&desc=Cross-Platform%20%26%20Mobile%20Engineer%20%7C%20Applied%20Mathematics&descSize=18&descAlignY=58" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=Md.%20Sobuj%20Ali&fontSize=42&fontAlignY=36&desc=Pure%20Mathematics%20Student%20%7C%20Software%20Developer&descSize=18&descAlignY=58" width="100%" alt="Header" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=620&lines=Flutter+%26+Dart+Cross-Platform+Engineer;Native+Android+Developer+(Kotlin+%26+Room);Applied+Mathematics+%26+Computational+Modeling;Offline-First+%26+Privacy-First+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=620&lines=Pure+Mathematics+Student;Mathematical+Logic+%26+Rigorous+Reasoning;Flutter+%26+Dart+Cross-Platform+Developer;Native+Android+with+Kotlin+%26+Room;Offline-First+%26+Privacy-First+Software" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
 
 ---
 
-## 👨‍💻 Who Am I?
+## 🎓 About Me
 
-- 🎓 **Applied Mathematics**: Student specializing in **Mathematical Modeling**, **Numerical Computation**, and **Algorithm Optimization**.
-- 📱 **Cross-Platform & Native Mobile**: Crafting production-grade mobile applications using **Flutter (Dart)** for cross-platform versatility and **Kotlin (Android SDK)** for native performance.
-- 🛡️ **Privacy & Local-First Advocate**: Dedicated to developing software that guarantees user data sovereignty—featuring **AES-256 local encryption**, **zero telemetry**, and **strict accounting invariants**.
-- ⚙️ **Practical Engineering**: Architect of complete, battle-tested management ecosystems (**MessFlow**, **Poyshakori**, **Mess Meal & Bazar Tracker**) that automate real-world financial logistics.
+- 📐 **Pure Mathematics Scholar**: Undergraduate student passionate about **Pure Mathematics**, abstract structures, mathematical logic, and formal proof reasoning.
+- 📱 **Mobile & Cross-Platform Engineer**: Building robust mobile applications with **Flutter (Dart)** and native Android software with **Kotlin (Android SDK & Room SQLite)**.
+- 🛡️ **Privacy & System Integrity**: Strong advocate of **offline-first software, AES-256 local encryption, zero telemetry**, and mathematical precision in accounting invariants.
+- ⚙️ **Practical Utility**: Architect of production-tested mess and hostel management solutions (**MessFlow**, **Poyshakori**, **Mess Meal & Bazar Tracker**).
 
 ---
 
@@ -35,9 +35,9 @@
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Mobile & Cross-Platform** | **Flutter 3.24+**, **Dart 3.5+**, **Kotlin 1.9+**, Android SDK, Jetpack, Room SQLite, Material Design 3, ViewBinding |
+| **Mathematics & Logic** | **Pure Mathematics**, Mathematical Logic, LaTeX, Discrete Structures, Python (Scientific Scripting) |
+| **Mobile & Cross-Platform** | **Flutter 3.24+**, **Dart 3.5+**, **Kotlin 1.9+**, Android SDK, Room SQLite, Material Design 3, ViewBinding |
 | **Backend & Cloud Services** | **Firebase Firestore** (Offline Persistence), **Firebase Auth**, Cloudinary API, Local SQLite |
-| **Mathematics & Scientific Tools** | **Python**, NumPy, Pandas, Matplotlib, LaTeX, Advanced Excel & Google Sheets Modeling |
 | **Development & Workflow** | Git, GitHub, Android Studio, VS Code, Linux, Windows Terminal, Gradle |
 
 ---
@@ -134,18 +134,8 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=sobuj-here&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=sobuj-here&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <sub>Designed & engineered with precision by <b><a href="https://github.com/sobuj-here">Md. Sobuj Ali</a></b></sub>
   <br/>
-  <sub><i>"Simplicity is the prerequisite for reliability."</i> — Edsger W. Dijkstra</sub>
+  <sub><i>"Pure mathematics is, in its way, the poetry of logical ideas."</i> — Albert Einstein</sub>
 </div>
