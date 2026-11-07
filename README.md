@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=Md.%20Sobuj%20Ali&fontSize=42&fontAlignY=36&desc=Pure%20Mathematics%20Student%20%7C%20Software%20Developer&descSize=18&descAlignY=58" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=Md.%20Sobuj%20Ali&fontSize=42&fontAlignY=36&desc=Mathematics%20Student%20%7C%20Software%20Developer&descSize=18&descAlignY=58" width="100%" alt="Header" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=620&lines=Pure+Mathematics+Student;Mathematical+Logic+%26+Rigorous+Reasoning;Flutter+%26+Dart+Cross-Platform+Developer;Native+Android+with+Kotlin+%26+Room;Offline-First+%26+Privacy-First+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=620&lines=Mathematics+Student;Mathematical+Logic+%26+Problem+Solving;Flutter+%26+Dart+Cross-Platform+Developer;Native+Android+with+Kotlin+%26+Room;Offline-First+%26+Privacy-First+Software" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 🎓 About Me
 
-- 📐 **Pure Mathematics Scholar**: Undergraduate student passionate about **Pure Mathematics**, abstract structures, mathematical logic, and formal proof reasoning.
+- 📐 **Mathematics Scholar**: Undergraduate student passionate about **Mathematics**, mathematical logic, problem solving, and analytical thinking.
 - 📱 **Mobile & Cross-Platform Engineer**: Building robust mobile applications with **Flutter (Dart)** and native Android software with **Kotlin (Android SDK & Room SQLite)**.
 - 🛡️ **Privacy & System Integrity**: Strong advocate of **offline-first software, AES-256 local encryption, zero telemetry**, and mathematical precision in accounting invariants.
 - ⚙️ **Practical Utility**: Architect of production-tested mess and hostel management solutions (**MessFlow**, **Poyshakori**, **Mess Meal & Bazar Tracker**).
@@ -35,7 +35,7 @@
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Mathematics & Logic** | **Pure Mathematics**, Mathematical Logic, LaTeX, Discrete Structures, Python (Scientific Scripting) |
+| **Mathematics & Logic** | **Mathematics**, Mathematical Logic, LaTeX, Discrete Mathematics, Python (Data & Analysis) |
 | **Mobile & Cross-Platform** | **Flutter 3.24+**, **Dart 3.5+**, **Kotlin 1.9+**, Android SDK, Room SQLite, Material Design 3, ViewBinding |
 | **Backend & Cloud Services** | **Firebase Firestore** (Offline Persistence), **Firebase Auth**, Cloudinary API, Local SQLite |
 | **Development & Workflow** | Git, GitHub, Android Studio, VS Code, Linux, Windows Terminal, Gradle |
@@ -137,5 +137,5 @@
 <div align="center">
   <sub>Designed & engineered with precision by <b><a href="https://github.com/sobuj-here">Md. Sobuj Ali</a></b></sub>
   <br/>
-  <sub><i>"Pure mathematics is, in its way, the poetry of logical ideas."</i> — Albert Einstein</sub>
+  <sub><i>"Mathematics is the language with which God has written the universe."</i> — Galileo Galilei</sub>
 </div>
