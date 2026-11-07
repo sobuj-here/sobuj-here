@@ -9,17 +9,17 @@
 <p align="center">
   <a href="mailto:sobuj.here.420@gmail.com"><img src="https://img.shields.io/badge/Email-sobuj.here.420%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/sobuj-here"><img src="https://img.shields.io/badge/GitHub-sobuj--here-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/sobuj-here?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Featured%20Projects-0078D4?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/sobuj-here?tab=repositories"><img src="https://img.shields.io/badge/Repositories-All%20Public%20Projects-0078D4?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 Engineering Overview
 
-- 📱 **Mobile & Cross-Platform Engineering**: Passionate software engineer specializing in cross-platform mobile apps with **Flutter & Dart** and native Android software with **Kotlin, Jetpack, and Room SQLite**.
+- 📱 **Mobile & Cross-Platform Development**: Specializing in cross-platform applications with **Flutter (Dart)** and native Android software with **Kotlin, Jetpack, and Room SQLite**.
 - 🛡️ **Offline-First & Privacy Architecture**: Dedicated to building zero-telemetry, local-first software with client-side encryption (**AES-256**) and reliable offline persistence.
-- 🏗️ **Clean Code & Modern Architecture**: Strong focus on separation of concerns, MVVM / Clean Architecture patterns, reproducible data models, and fluid Material Design 3 interfaces.
-- ⚡ **Practical Production Utilities**: Creator and maintainer of end-to-end digital solutions, including mess finance systems, personal wealth management software, and modern web utilities.
+- 🏗️ **Clean Code & Modern Design**: Strong focus on separation of concerns, MVVM / Clean Architecture patterns, and fluid Material Design 3 interfaces.
+- ⚡ **Practical Production Utilities**: Creator and maintainer of end-to-end digital solutions, hostel management systems, personal finance tools, and web utilities.
 
 ---
 
@@ -33,17 +33,17 @@
 
 <br/>
 
-| Domain | Technologies & Frameworks |
+| Category | Technologies & Tools |
 | :--- | :--- |
 | **Mobile & Cross-Platform** | **Flutter 3.24+**, **Dart 3.5+**, **Kotlin 1.9+**, Android SDK, Android Jetpack, Material Design 3, ViewBinding |
-| **Data Persistence & Backend** | **Room SQLite**, **Firebase Firestore** (Offline Persistence), **Firebase Auth**, Local SQLite, REST APIs |
+| **Data Persistence & Cloud** | **Room SQLite**, **Firebase Firestore** (Offline Persistence), **Firebase Auth**, Local SQLite, REST APIs |
 | **Core Languages** | Kotlin, Dart, Java, Python, C++, Modern JavaScript (ES6+), SQL |
-| **Security & Architecture** | Offline-First Design, AES-256 Database Encryption, PBKDF2 Key Derivation, MVVM / Clean Architecture |
-| **Developer Tooling** | Git, GitHub, Android Studio, VS Code, Gradle, Postman, Linux, Windows Terminal, Figma |
+| **Security & Systems** | Offline-First Architecture, AES-256 Database Encryption, PBKDF2 Key Derivation, MVVM Pattern |
+| **Developer Workflow** | Git, GitHub, Android Studio, VS Code, Gradle, Postman, Linux, Windows Terminal, Figma |
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Projects
 
 <table>
   <!-- MessFlow Card -->
@@ -55,7 +55,7 @@
     </td>
     <td width="68%" valign="top">
       <h3>🚀 <a href="https://github.com/sobuj-here/MessFlow">MessFlow — Smart Mess & Hostel Management Application</a></h3>
-      <p>A full-featured digital solution for students and bachelor messes to track daily meals, manage bazaar expenses, automate meal rate calculations, persist room rents, and archive monthly financial records.</p>
+      <p>A full-featured digital solution for student hostels and bachelor messes to track daily meals, manage bazaar expenses, automate meal rate calculations, persist room rents, and archive monthly financial records.</p>
       <ul>
         <li><b>Dynamic Meal Matrix:</b> Complete 1-to-31 day meal tracking with real-time meal rate calculation engine.</li>
         <li><b>Bazaar Scheduling:</b> Manager duty assignments, budget limits, and negative expense refunds.</li>
@@ -86,7 +86,7 @@
       <h3>📱 <a href="https://github.com/sobuj-here/Poyshakori">Poyshakori — Private Offline Personal Finance & Accounting</a></h3>
       <p>A 100% offline-first personal accounting and wealth management application for Android engineered around strict double-entry balance conservation.</p>
       <ul>
-        <li><b>Zero Network Permissions:</b> Completely lacks <code>INTERNET</code> permission—zero telemetry, zero tracking.</li>
+        <li><b>Zero Network Permissions:</b> Physically lacks <code>INTERNET</code> permission—zero telemetry, zero tracking.</li>
         <li><b>Biometric & Encryption:</b> Biometric authentication lock and AES-256 database backups with PBKDF2 key derivation.</li>
         <li><b>Multi-Account Balances:</b> Real-time balance calculations across Cash, Bank, and Mobile Wallets (bKash, Nagad).</li>
         <li><b>Budgeting & Analytics:</b> Custom category spending limits, debt tracking, and visual Canvas expense reports.</li>
@@ -108,7 +108,7 @@
   <tr>
     <td width="32%" align="center" valign="middle">
       <a href="https://sobuj-here.github.io/admit-card-editor/">
-        <img src="https://img.shields.io/badge/Live%20Application-Admit%20Card%20Editor-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" width="90%" style="border-radius: 8px;" alt="Admit Card Editor" />
+        <img src="https://img.shields.io/badge/Live%20App-Admit%20Card%20Editor-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" width="90%" style="border-radius: 8px;" alt="Admit Card Editor" />
       </a>
     </td>
     <td width="68%" valign="top">
@@ -134,16 +134,19 @@
 
 ---
 
-## 📂 Public Repositories & Utilities
+## 📂 Public Repositories Catalog
 
-| Repository | Domain | Tech Stack | Quick Links |
+A complete directory of all publicly accessible repositories and open-source projects:
+
+| Repository | Category | Core Stack | Links & Resources |
 | :--- | :--- | :--- | :--- |
-| [**MessFlow**](https://github.com/sobuj-here/MessFlow) | Mobile App (Hostel / Mess Management) | Flutter, Dart, Firebase | [**Code**](https://github.com/sobuj-here/MessFlow) • [**APK**](https://github.com/sobuj-here/MessFlow/releases) |
-| [**Poyshakori**](https://github.com/sobuj-here/Poyshakori) | Mobile App (Offline Personal Finance) | Kotlin, Room SQLite, Material 3 | [**Code**](https://github.com/sobuj-here/Poyshakori) • [**APK (v4.0)**](https://github.com/sobuj-here/Poyshakori/raw/main/poyshakori-v4.0.apk) |
-| [**Admit Card Editor**](https://github.com/sobuj-here/admit-card-editor) | Web Application (Card Generator) | HTML5 Canvas, JavaScript, CSS3 | [**Launch App**](https://sobuj-here.github.io/admit-card-editor/) • [**Code**](https://github.com/sobuj-here/admit-card-editor) |
-| [**Railway Ticket Generator**](https://github.com/sobuj-here/railway-ticket-generator) | Web Application (UI Prototype) | HTML5, JavaScript, Thermal CSS | [**Code**](https://github.com/sobuj-here/railway-ticket-generator) |
-| [**Software Catalog**](https://github.com/sobuj-here/Software) | Developer Utilities & Runtimes | Curated Software Archive | [**Explore**](https://github.com/sobuj-here/Software) |
-| [**Mess Meal & Bazar Tracker**](https://github.com/sobuj-here/EXEL-Sheet-Template) | Financial System | Dynamic Array Formulas, Excel | [**Sheets Copy**](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy) • [**Repo**](https://github.com/sobuj-here/EXEL-Sheet-Template) |
+| [**MessFlow**](https://github.com/sobuj-here/MessFlow) | Mobile Application | Flutter, Dart, Firebase | [**Source Code**](https://github.com/sobuj-here/MessFlow) • [**APK Download**](https://github.com/sobuj-here/MessFlow/releases) |
+| [**Poyshakori**](https://github.com/sobuj-here/Poyshakori) | Mobile Application | Kotlin, Room SQLite, Material 3 | [**Source Code**](https://github.com/sobuj-here/Poyshakori) • [**APK (v4.0)**](https://github.com/sobuj-here/Poyshakori/raw/main/poyshakori-v4.0.apk) |
+| [**admit-card-editor**](https://github.com/sobuj-here/admit-card-editor) | Web Application | HTML5 Canvas, JavaScript, CSS3 | [**Launch Web App**](https://sobuj-here.github.io/admit-card-editor/) • [**Source Code**](https://github.com/sobuj-here/admit-card-editor) |
+| [**Software**](https://github.com/sobuj-here/Software) | Developer Utilities | Curated Tools & Runtimes | [**Explore Catalog**](https://github.com/sobuj-here/Software) |
+| [**EXEL-Sheet-Template**](https://github.com/sobuj-here/EXEL-Sheet-Template) | Financial Spreadsheets | Dynamic Array Formulas, Excel | [**Sheets Template**](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy) • [**Repo**](https://github.com/sobuj-here/EXEL-Sheet-Template) |
+| [**Assignment_Cover_Pages**](https://github.com/sobuj-here/Assignment_Cover_Pages) | Document Templates | PDF, Print-Ready A4 Formats | [**View Templates**](https://github.com/sobuj-here/Assignment_Cover_Pages) |
+| [**Presentation**](https://github.com/sobuj-here/Presentation) | Slide Presentations | PowerPoint Slide Decks (.pptx) | [**View Slide Decks**](https://github.com/sobuj-here/Presentation) |
 
 ---
 
