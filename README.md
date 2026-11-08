@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=220&section=header&text=Md.%20Sobuj%20Ali&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Mobile%20App%20Developer&descSize=19&descAlignY=58" width="100%" alt="Md. Sobuj Ali - Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=220&section=header&text=Md.%20Sobuj%20Ali&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=20&descAlignY=58" width="100%" alt="Md. Sobuj Ali - Header Banner" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=640&lines=Software+Engineer+%26+Mobile+App+Developer;Flutter+%26+Dart+Cross-Platform+Architecture;Native+Android+Development+with+Kotlin+%26+Room;Offline-First%2C+Privacy-Driven+%26+Secure+Systems;Building+Clean%2C+Robust+%26+Production-Ready+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=640&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Md.+Sobuj+Ali;Building+Practical+%26+Useful+Applications;Mobile+Development+with+Flutter+%26+Kotlin;Offline-First+%26+Privacy-Focused+Tools" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
 
 ---
 
-## 👨‍💻 Engineering Overview
+## 🌟 About Me
 
-- 📱 **Mobile & Cross-Platform Development**: Specializing in cross-platform applications with **Flutter (Dart)** and native Android software with **Kotlin, Jetpack, and Room SQLite**.
-- 🛡️ **Offline-First & Privacy Architecture**: Dedicated to building zero-telemetry, local-first software with client-side encryption (**AES-256**) and reliable offline persistence.
-- 🏗️ **Clean Code & Modern Design**: Strong focus on separation of concerns, MVVM / Clean Architecture patterns, and fluid Material Design 3 interfaces.
-- ⚡ **Practical Production Utilities**: Creator and maintainer of end-to-end digital solutions, hostel management systems, personal finance tools, and web utilities.
+- 👋 **Hi there!**: I'm **Md. Sobuj Ali** — passionate about creating practical digital tools, exploring modern technologies, and building solutions that solve everyday problems.
+- 📱 **Mobile Development**: Enthusiastic about building clean mobile applications using **Flutter & Dart**, as well as native Android software with **Kotlin & Room SQLite**.
+- 🛡️ **Privacy & Local-First Tools**: Focused on building offline-first applications with local data storage, client-side encryption, and zero unnecessary data collection.
+- 🚀 **Projects & Utilities**: Actively creating and sharing mess management systems, personal finance tools, automated spreadsheets, academic slide decks, and developer utilities.
 
 ---
 
@@ -38,7 +38,7 @@
 | **Mobile & Cross-Platform** | **Flutter 3.24+**, **Dart 3.5+**, **Kotlin 1.9+**, Android SDK, Android Jetpack, Material Design 3, ViewBinding |
 | **Data Persistence & Cloud** | **Room SQLite**, **Firebase Firestore** (Offline Persistence), **Firebase Auth**, Local SQLite, REST APIs |
 | **Core Languages** | Kotlin, Dart, Java, Python, C++, Modern JavaScript (ES6+), SQL |
-| **Security & Systems** | Offline-First Architecture, AES-256 Database Encryption, PBKDF2 Key Derivation, MVVM Pattern |
+| **Security & Architecture** | Offline-First Design, AES-256 Database Encryption, PBKDF2 Key Derivation, MVVM Architecture |
 | **Developer Workflow** | Git, GitHub, Android Studio, VS Code, Gradle, Postman, Linux, Windows Terminal, Figma |
 
 ---
@@ -104,7 +104,7 @@
     </td>
   </tr>
 
-    <!-- Mess Meal Tracker Spreadsheet Card -->
+  <!-- Mess Meal Tracker Spreadsheet Card -->
   <tr>
     <td width="32%" align="center" valign="middle">
       <a href="https://github.com/sobuj-here/EXEL-Sheet-Template">
@@ -159,7 +159,5 @@ A complete directory of all publicly accessible repositories and open-source pro
 ---
 
 <div align="center">
-  <sub>Designed & engineered with precision by <b><a href="https://github.com/sobuj-here">Md. Sobuj Ali</a></b></sub>
-  <br/>
-  <sub><i>"Simplicity is prerequisite for reliability."</i> — Edsger W. Dijkstra</sub>
+  <sub>Designed with ❤️ by <b><a href="https://github.com/sobuj-here">Md. Sobuj Ali</a></b></sub>
 </div>
