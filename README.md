@@ -104,6 +104,37 @@
     </td>
   </tr>
 
+  
+  <!-- Music Player Card -->
+  <tr>
+    <td width="32%" align="center" valign="middle">
+      <a href="https://github.com/sobuj-here/Music-Player">
+        <img src="https://raw.githubusercontent.com/sobuj-here/Music-Player/main/docs/screenshots/01_now_playing.png" width="100%" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.25);" alt="Music Player Now Playing" />
+      </a>
+    </td>
+    <td width="68%" valign="top">
+      <h3>🎵 <a href="https://github.com/sobuj-here/Music-Player">Music Player — Native Offline Android Audio Player</a></h3>
+      <p>A lightweight, high-performance offline native Android music player engineered for seamless, uninterrupted 48h+ background playback.</p>
+      <ul>
+        <li><b>Reliable Background Playback:</b> AndroidX Media3 ExoPlayer with MediaSessionService and local wake locks that withstand screen locks and task dismissals.</li>
+        <li><b>100% Offline & Private:</b> Zero AI models, zero analytics, and zero cloud tracking. Audio files and playlists remain entirely on-device.</li>
+        <li><b>Full Music Library:</b> MediaStore discovery across Songs, Albums, Artists, Folders, Playlists, Favorites, and Recents with dynamic search and sorting.</li>
+        <li><b>Audio Enhancements:</b> Built-in 5-band graphic equalizer with 9 presets, Bass Boost, 3D Virtualizer, and automated Sleep Timer.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-2.0.0-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/ExoPlayer-Media3-FF6F00?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Room-SQLite-F58220?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Storage-100%25%20Offline-107C41?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/sobuj-here/Music-Player"><b>📂 Source Code</b></a> • 
+        <a href="https://github.com/sobuj-here/Music-Player/raw/main/releases/MusicPlayer-v1.0.0-release.apk"><b>📥 Download APK (v1.0.0)</b></a>
+      </p>
+    </td>
+  </tr>
+
   <!-- Mess Meal Tracker Spreadsheet Card -->
   <tr>
     <td width="32%" align="center" valign="middle">
@@ -143,6 +174,7 @@ A complete directory of all publicly accessible repositories and open-source pro
 | :--- | :--- | :--- | :--- |
 | [**MessFlow**](https://github.com/sobuj-here/MessFlow) | Mobile Application | Flutter, Dart, Firebase | [**Source Code**](https://github.com/sobuj-here/MessFlow) • [**APK Download**](https://github.com/sobuj-here/MessFlow/releases) |
 | [**Poyshakori**](https://github.com/sobuj-here/Poyshakori) | Mobile Application | Kotlin, Room SQLite, Material 3 | [**Source Code**](https://github.com/sobuj-here/Poyshakori) • [**APK (v4.0)**](https://github.com/sobuj-here/Poyshakori/raw/main/poyshakori-v4.0.apk) |
+| [**Music-Player**](https://github.com/sobuj-here/Music-Player) | Mobile Application | Kotlin, Jetpack Compose, Media3 ExoPlayer, Room | [**Source Code**](https://github.com/sobuj-here/Music-Player) • [**APK (v1.0.0)**](https://github.com/sobuj-here/Music-Player/raw/main/releases/MusicPlayer-v1.0.0-release.apk) |
 | [**admit-card-editor**](https://github.com/sobuj-here/admit-card-editor) | Web Application | HTML5 Canvas, JavaScript, CSS3 | [**Launch Web App**](https://sobuj-here.github.io/admit-card-editor/) • [**Source Code**](https://github.com/sobuj-here/admit-card-editor) |
 | [**Software**](https://github.com/sobuj-here/Software) | Developer Utilities | Curated Tools & Runtimes | [**Explore Catalog**](https://github.com/sobuj-here/Software) |
 | [**EXEL-Sheet-Template**](https://github.com/sobuj-here/EXEL-Sheet-Template) | Financial Spreadsheets | Dynamic Array Formulas, Excel | [**Sheets Template**](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy) • [**Repo**](https://github.com/sobuj-here/EXEL-Sheet-Template) |
