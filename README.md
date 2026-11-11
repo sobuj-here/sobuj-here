@@ -70,7 +70,7 @@
       </p>
       <p>
         <a href="https://github.com/sobuj-here/MessFlow"><b>📂 Source Code</b></a> • 
-        <a href="https://github.com/sobuj-here/MessFlow/releases"><b>📥 Download APK (v2.1.2)</b></a>
+        <a href="https://github.com/sobuj-here/MessFlow/releases/tag/v2.1.3"><b>📥 Download APK (v2.1.3)</b></a>
       </p>
     </td>
   </tr>
@@ -99,7 +99,7 @@
       </p>
       <p>
         <a href="https://github.com/sobuj-here/Poyshakori"><b>📂 Source Code</b></a> • 
-        <a href="https://github.com/sobuj-here/Poyshakori/raw/main/poyshakori-v4.0.apk"><b>📥 Download APK (v4.0)</b></a>
+        <a href="https://github.com/sobuj-here/Poyshakori/releases/tag/v5.0"><b>📥 Download APK (v5.0)</b></a>
       </p>
     </td>
   </tr>
@@ -130,7 +130,7 @@
       </p>
       <p>
         <a href="https://github.com/sobuj-here/Music-Player"><b>📂 Source Code</b></a> • 
-        <a href="https://github.com/sobuj-here/Music-Player/raw/main/releases/MusicPlayer-v1.0.0-release.apk"><b>📥 Download APK (v1.0.0)</b></a>
+        <a href="https://github.com/sobuj-here/Music-Player/releases/download/v1.0.0/MusicPlayer-v1.0.0.apk"><b>📥 Download APK (v1.0.0)</b></a>
       </p>
     </td>
   </tr>
@@ -172,9 +172,9 @@ A complete directory of all publicly accessible repositories and open-source pro
 
 | Repository | Category | Core Stack | Links & Resources |
 | :--- | :--- | :--- | :--- |
-| [**MessFlow**](https://github.com/sobuj-here/MessFlow) | Mobile Application | Flutter, Dart, Firebase | [**Source Code**](https://github.com/sobuj-here/MessFlow) • [**APK Download**](https://github.com/sobuj-here/MessFlow/releases) |
-| [**Poyshakori**](https://github.com/sobuj-here/Poyshakori) | Mobile Application | Kotlin, Room SQLite, Material 3 | [**Source Code**](https://github.com/sobuj-here/Poyshakori) • [**APK (v4.0)**](https://github.com/sobuj-here/Poyshakori/raw/main/poyshakori-v4.0.apk) |
-| [**Music-Player**](https://github.com/sobuj-here/Music-Player) | Mobile Application | Kotlin, Jetpack Compose, Media3 ExoPlayer, Room | [**Source Code**](https://github.com/sobuj-here/Music-Player) • [**APK (v1.0.0)**](https://github.com/sobuj-here/Music-Player/raw/main/releases/MusicPlayer-v1.0.0-release.apk) |
+| [**MessFlow**](https://github.com/sobuj-here/MessFlow) | Mobile Application | Flutter, Dart, Firebase | [**Source Code**](https://github.com/sobuj-here/MessFlow) • [**APK (v2.1.3)**](https://github.com/sobuj-here/MessFlow/releases/tag/v2.1.3) |
+| [**Poyshakori**](https://github.com/sobuj-here/Poyshakori) | Mobile Application | Kotlin, Room SQLite, Material 3 | [**Source Code**](https://github.com/sobuj-here/Poyshakori) • [**APK (v5.0)**](https://github.com/sobuj-here/Poyshakori/releases/tag/v5.0) |
+| [**Music-Player**](https://github.com/sobuj-here/Music-Player) | Mobile Application | Kotlin, Jetpack Compose, Media3 ExoPlayer, Room | [**Source Code**](https://github.com/sobuj-here/Music-Player) • [**APK (v1.0.0)**](https://github.com/sobuj-here/Music-Player/releases/download/v1.0.0/MusicPlayer-v1.0.0.apk) |
 | [**admit-card-editor**](https://github.com/sobuj-here/admit-card-editor) | Web Application | HTML5 Canvas, JavaScript, CSS3 | [**Launch Web App**](https://sobuj-here.github.io/admit-card-editor/) • [**Source Code**](https://github.com/sobuj-here/admit-card-editor) |
 | [**Software**](https://github.com/sobuj-here/Software) | Developer Utilities | Curated Tools & Runtimes | [**Explore Catalog**](https://github.com/sobuj-here/Software) |
 | [**EXEL-Sheet-Template**](https://github.com/sobuj-here/EXEL-Sheet-Template) | Financial Spreadsheets | Dynamic Array Formulas, Excel | [**Sheets Template**](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy) • [**Repo**](https://github.com/sobuj-here/EXEL-Sheet-Template) |
