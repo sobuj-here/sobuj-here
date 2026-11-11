@@ -66,7 +66,7 @@
         <img src="https://img.shields.io/badge/Flutter-3.24+-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Dart-3.5+-0175C2?style=flat-square&logo=dart&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Android-v2.1.2-brightgreen?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-v2.1.3-brightgreen?style=flat-square&logo=android&logoColor=white" />
       </p>
       <p>
         <a href="https://github.com/sobuj-here/MessFlow"><b>📂 Source Code</b></a> • 
