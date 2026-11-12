@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=220&section=header&text=Md.%20Sobuj%20Ali&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=20&descAlignY=58" width="100%" alt="Md. Sobuj Ali - Header Banner" />
 </div>
 
@@ -14,16 +14,16 @@
 
 ---
 
-## ðŸŒŸ About Me
+## 🌟 About Me
 
-- ðŸ‘‹ **Hi there!**: I'm **Md. Sobuj Ali** â€” passionate about creating practical digital tools, exploring modern technologies, and building solutions that solve everyday problems.
-- ðŸ“± **Mobile Development**: Enthusiastic about building clean mobile applications using **Flutter & Dart**, as well as native Android software with **Kotlin & Room SQLite**.
-- ðŸ›¡ï¸ **Privacy & Local-First Tools**: Focused on building offline-first applications with local data storage, client-side encryption, and zero unnecessary data collection.
-- ðŸš€ **Projects & Utilities**: Actively creating and sharing mess management systems, personal finance tools, automated spreadsheets, academic slide decks, and developer utilities.
+- 👋 **Hi there!**: I'm **Md. Sobuj Ali** — passionate about creating practical digital tools, exploring modern technologies, and building solutions that solve everyday problems.
+- 📱 **Mobile Development**: Enthusiastic about building clean mobile applications using **Flutter & Dart**, as well as native Android software with **Kotlin & Room SQLite**.
+- 🛡️ **Privacy & Local-First Tools**: Focused on building offline-first applications with local data storage, client-side encryption, and zero unnecessary data collection.
+- 🚀 **Projects & Utilities**: Actively creating and sharing mess management systems, personal finance tools, automated spreadsheets, academic slide decks, and developer utilities.
 
 ---
 
-## ðŸ› ï¸ Tech Stack & Tooling
+## 🛠️ Tech Stack & Tooling
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -43,41 +43,9 @@
 
 ---
 
-## ðŸš€ Featured Projects
+## 🚀 Featured Projects
 
 <table>
-  <!-- THRYNX Flagship Card -->
-  <tr>
-    <td width="36%" align="center" valign="middle">
-      <a href="https://github.com/sobuj-here/thrynx">
-        <img src="https://raw.githubusercontent.com/sobuj-here/thrynx/main/docs/screenshots/thrynx_hero_banner.svg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,229,255,0.25);" alt="THRYNX Showcase" />
-      </a>
-    </td>
-    <td width="64%" valign="top">
-      <h3>âš¡ <a href="https://github.com/sobuj-here/thrynx">THRYNX â€” All-in-One Multimedia Player, Video Editor & Creative Studio</a></h3>
-      <p>A flagship native Android multimedia power-station combining a professional video player, CapCut-grade multi-track video editor, audio editing studio, music player, and photo-to-video slideshow maker.</p>
-      <ul>
-        <li><b>Advanced Video Player:</b> Multi-audio track switching (English, à¦¬à¦¾à¦‚à¦²à¦¾, Hindi, Original) without video restarts, subtitle styling & external SRT loading, gesture controls, PiP, and audio-only background mode.</li>
-        <li><b>CapCut-Grade Video Editor:</b> Multi-track timeline (Video, Audio, Text, Overlay), keyframe animation (Linear & Bezier), speed control (0.25xâ€“4x), transitions, and OpenGL ES color grading.</li>
-        <li><b>Music Studio & Visualizer:</b> Local music library, real-time audio amplitude visualizer, sleep timer, and background playback via MediaSessionService.</li>
-        <li><b>Photo-to-Video Maker:</b> Cinematic Ken Burns zoom effect, soundtrack synchronization, and multi-aspect ratio (16:9, 9:16, 1:1, 4:5) exports.</li>
-        <li><b>Dual Language & Offline-First:</b> Full English & à¦¬à¦¾à¦‚à¦²à¦¾ localization. 100% offline with zero cloud tracking.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-1.9+-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-        <img src="https://img.shields.io/badge/Media3%20ExoPlayer-1.2.1-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Room-SQLite-00599C?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Languages-English%20%7C%20à¦¬à¦¾à¦‚à¦²à¦¾-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Privacy-100%25%20Offline-00E5FF?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/sobuj-here/thrynx"><b>ðŸ”— Source Code</b></a> &nbsp;â€¢&nbsp; 
-        <a href="https://github.com/sobuj-here/thrynx/releases/download/v1.0.0/app-debug.apk"><b>âš¡ Download APK (v1.0.0 - 21 MB)</b></a> &nbsp;â€¢&nbsp; 
-        <a href="https://github.com/sobuj-here/thrynx/releases/latest"><b>ðŸ“¦ Release Notes</b></a>
-      </p>
-    </td>
-  </tr>
   <!-- MessFlow Card -->
   <tr>
     <td width="32%" align="center" valign="middle">
@@ -86,7 +54,7 @@
       </a>
     </td>
     <td width="68%" valign="top">
-      <h3>ðŸš€ <a href="https://github.com/sobuj-here/MessFlow">MessFlow â€” Smart Mess & Hostel Management Application</a></h3>
+      <h3>🚀 <a href="https://github.com/sobuj-here/MessFlow">MessFlow — Smart Mess & Hostel Management Application</a></h3>
       <p>A full-featured digital solution for student hostels and bachelor messes to track daily meals, manage bazaar expenses, automate meal rate calculations, persist room rents, and archive monthly financial records.</p>
       <ul>
         <li><b>Dynamic Meal Matrix:</b> Complete 1-to-31 day meal tracking with real-time meal rate calculation engine.</li>
@@ -101,8 +69,8 @@
         <img src="https://img.shields.io/badge/Android-v2.1.3-brightgreen?style=flat-square&logo=android&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/sobuj-here/MessFlow"><b>ðŸ“‚ Source Code</b></a> â€¢ 
-        <a href="https://github.com/sobuj-here/MessFlow/releases/tag/v2.1.3"><b>ðŸ“¥ Download APK (v2.1.3)</b></a>
+        <a href="https://github.com/sobuj-here/MessFlow"><b>📂 Source Code</b></a> • 
+        <a href="https://github.com/sobuj-here/MessFlow/releases/tag/v2.1.3"><b>📥 Download APK (v2.1.3)</b></a>
       </p>
     </td>
   </tr>
@@ -115,10 +83,10 @@
       </a>
     </td>
     <td width="68%" valign="top">
-      <h3>ðŸ“± <a href="https://github.com/sobuj-here/Poyshakori">Poyshakori â€” Private Offline Personal Finance & Accounting</a></h3>
+      <h3>📱 <a href="https://github.com/sobuj-here/Poyshakori">Poyshakori — Private Offline Personal Finance & Accounting</a></h3>
       <p>A 100% offline-first personal accounting and wealth management application for Android engineered around strict double-entry balance conservation.</p>
       <ul>
-        <li><b>Zero Network Permissions:</b> Physically lacks <code>INTERNET</code> permissionâ€”zero telemetry, zero tracking.</li>
+        <li><b>Zero Network Permissions:</b> Physically lacks <code>INTERNET</code> permission—zero telemetry, zero tracking.</li>
         <li><b>Biometric & Encryption:</b> Biometric authentication lock and AES-256 database backups with PBKDF2 key derivation.</li>
         <li><b>Multi-Account Balances:</b> Real-time balance calculations across Cash, Bank, and Mobile Wallets (bKash, Nagad).</li>
         <li><b>Budgeting & Analytics:</b> Custom category spending limits, debt tracking, and visual Canvas expense reports.</li>
@@ -130,8 +98,8 @@
         <img src="https://img.shields.io/badge/Security-AES--256-107C41?style=flat-square" />
       </p>
       <p>
-        <a href="https://github.com/sobuj-here/Poyshakori"><b>ðŸ“‚ Source Code</b></a> â€¢ 
-        <a href="https://github.com/sobuj-here/Poyshakori/releases/tag/v5.0"><b>ðŸ“¥ Download APK (v5.0)</b></a>
+        <a href="https://github.com/sobuj-here/Poyshakori"><b>📂 Source Code</b></a> • 
+        <a href="https://github.com/sobuj-here/Poyshakori/releases/tag/v5.0"><b>📥 Download APK (v5.0)</b></a>
       </p>
     </td>
   </tr>
@@ -145,7 +113,7 @@
       </a>
     </td>
     <td width="68%" valign="top">
-      <h3>ðŸŽµ <a href="https://github.com/sobuj-here/Music-Player">Music Player â€” Native Offline Android Audio Player</a></h3>
+      <h3>🎵 <a href="https://github.com/sobuj-here/Music-Player">Music Player — Native Offline Android Audio Player</a></h3>
       <p>A lightweight, high-performance offline native Android music player engineered for seamless, uninterrupted 48h+ background playback.</p>
       <ul>
         <li><b>Reliable Background Playback:</b> AndroidX Media3 ExoPlayer with MediaSessionService and local wake locks that withstand screen locks and task dismissals.</li>
@@ -161,8 +129,8 @@
         <img src="https://img.shields.io/badge/Storage-100%25%20Offline-107C41?style=flat-square" />
       </p>
       <p>
-        <a href="https://github.com/sobuj-here/Music-Player"><b>ðŸ“‚ Source Code</b></a> â€¢ 
-        <a href="https://github.com/sobuj-here/Music-Player/releases/download/v1.0.0/MusicPlayer-v1.0.0.apk"><b>ðŸ“¥ Download APK (v1.0.0)</b></a>
+        <a href="https://github.com/sobuj-here/Music-Player"><b>📂 Source Code</b></a> • 
+        <a href="https://github.com/sobuj-here/Music-Player/releases/download/v1.0.0/MusicPlayer-v1.0.0.apk"><b>📥 Download APK (v1.0.0)</b></a>
       </p>
     </td>
   </tr>
@@ -175,7 +143,7 @@
       </a>
     </td>
     <td width="68%" valign="top">
-      <h3>ðŸ“Š <a href="https://github.com/sobuj-here/EXEL-Sheet-Template">Mess Meal & Bazar Tracker â€” Automated Spreadsheet System</a></h3>
+      <h3>📊 <a href="https://github.com/sobuj-here/EXEL-Sheet-Template">Mess Meal & Bazar Tracker — Automated Spreadsheet System</a></h3>
       <p>An all-in-one dynamic financial tracking template designed for student hostels, bachelor apartments, and shared mess expense settlements.</p>
       <ul>
         <li><b>Dynamic Calendar Engine:</b> Automatically generates 1st-to-30th/31st month dates with dynamic array formulas.</li>
@@ -188,9 +156,41 @@
         <img src="https://img.shields.io/badge/Formulas-Dynamic%20Arrays-blue?style=flat-square" />
       </p>
       <p>
-        <a href="https://github.com/sobuj-here/EXEL-Sheet-Template"><b>ðŸ“‚ Repository</b></a> â€¢ 
-        <a href="https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy"><b>âš¡ Copy in Google Sheets</b></a> â€¢ 
-        <a href="https://github.com/sobuj-here/EXEL-Sheet-Template/raw/main/Mess%20Meal%20%26%20Bazar%20Tracker.xlsx"><b>ðŸ“¥ Download .xlsx</b></a>
+        <a href="https://github.com/sobuj-here/EXEL-Sheet-Template"><b>📂 Repository</b></a> • 
+        <a href="https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy"><b>⚡ Copy in Google Sheets</b></a> • 
+        <a href="https://github.com/sobuj-here/EXEL-Sheet-Template/raw/main/Mess%20Meal%20%26%20Bazar%20Tracker.xlsx"><b>📥 Download .xlsx</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- THRYNX Multimedia Studio Card -->
+  <tr>
+    <td width="32%" align="center" valign="middle">
+      <a href="https://github.com/sobuj-here/thrynx">
+        <img src="https://raw.githubusercontent.com/sobuj-here/thrynx/main/docs/screenshots/thrynx_hero_banner.svg" width="100%" style="border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.25);" alt="THRYNX Showcase" />
+      </a>
+    </td>
+    <td width="68%" valign="top">
+      <h3>🚀 <a href="https://github.com/sobuj-here/thrynx">THRYNX — All-in-One Multimedia Player, Video Editor & Creative Studio</a></h3>
+      <p>A flagship native Android multimedia power-station combining an advanced video player, CapCut-grade multi-track video editor, audio editing studio, music player, and photo-to-video slideshow maker.</p>
+      <ul>
+        <li><b>Advanced Video Player:</b> Multi-audio track switching (English, বাংলা, Hindi, Original) without video restarts, subtitle styling, gesture controls, PiP, and audio-only background mode.</li>
+        <li><b>Creative Video Editor:</b> Multi-track timeline (Video, Audio, Text, Overlay), keyframes, speed control (0.25x–4x), transitions, and color grading.</li>
+        <li><b>Music Studio & Visualizer:</b> Local music library, real-time audio amplitude visualizer, sleep timer, and background playback via MediaSessionService.</li>
+        <li><b>Photo-to-Video Maker:</b> Ken Burns zoom effect, soundtrack synchronization, and multi-aspect ratio (16:9, 9:16, 1:1, 4:5) exports.</li>
+        <li><b>Dual Language & Offline-First:</b> Full English & বাংলা localization. 100% offline with zero cloud tracking.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-1.9+-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/Media3%20ExoPlayer-1.2.1-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Room-SQLite-00599C?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Languages-English%20%7C%20বাংলা-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Storage-100%25%20Offline-107C41?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/sobuj-here/thrynx"><b>🔗 Source Code</b></a> &nbsp;&nbsp; 
+        <a href="https://github.com/sobuj-here/thrynx/releases/download/v1.0.0/app-debug.apk"><b>⚡ Download APK (v1.0.0)</b></a>
       </p>
     </td>
   </tr>
@@ -198,30 +198,31 @@
 
 ---
 
-## ðŸ“‚ Public Repositories Catalog
+## 📂 Public Repositories Catalog
 
 A complete directory of all publicly accessible repositories and open-source projects:
 
 | Repository | Category | Core Stack | Links & Resources |
 | :--- | :--- | :--- | :--- |
-| [**MessFlow**](https://github.com/sobuj-here/MessFlow) | Mobile Application | Flutter, Dart, Firebase | [**Source Code**](https://github.com/sobuj-here/MessFlow) â€¢ [**APK (v2.1.3)**](https://github.com/sobuj-here/MessFlow/releases/tag/v2.1.3) |
-| [**Poyshakori**](https://github.com/sobuj-here/Poyshakori) | Mobile Application | Kotlin, Room SQLite, Material 3 | [**Source Code**](https://github.com/sobuj-here/Poyshakori) â€¢ [**APK (v5.0)**](https://github.com/sobuj-here/Poyshakori/releases/tag/v5.0) |
-| [**Music-Player**](https://github.com/sobuj-here/Music-Player) | Mobile Application | Kotlin, Jetpack Compose, Media3 ExoPlayer, Room | [**Source Code**](https://github.com/sobuj-here/Music-Player) â€¢ [**APK (v1.0.0)**](https://github.com/sobuj-here/Music-Player/releases/download/v1.0.0/MusicPlayer-v1.0.0.apk) |
-| [**admit-card-editor**](https://github.com/sobuj-here/admit-card-editor) | Web Application | HTML5 Canvas, JavaScript, CSS3 | [**Launch Web App**](https://sobuj-here.github.io/admit-card-editor/) â€¢ [**Source Code**](https://github.com/sobuj-here/admit-card-editor) |
+| [**MessFlow**](https://github.com/sobuj-here/MessFlow) | Mobile Application | Flutter, Dart, Firebase | [**Source Code**](https://github.com/sobuj-here/MessFlow) • [**APK (v2.1.3)**](https://github.com/sobuj-here/MessFlow/releases/tag/v2.1.3) |
+| [**Poyshakori**](https://github.com/sobuj-here/Poyshakori) | Mobile Application | Kotlin, Room SQLite, Material 3 | [**Source Code**](https://github.com/sobuj-here/Poyshakori) • [**APK (v5.0)**](https://github.com/sobuj-here/Poyshakori/releases/tag/v5.0) |
+| [**Music-Player**](https://github.com/sobuj-here/Music-Player) | Mobile Application | Kotlin, Jetpack Compose, Media3 ExoPlayer, Room | [**Source Code**](https://github.com/sobuj-here/Music-Player) • [**APK (v1.0.0)**](https://github.com/sobuj-here/Music-Player/releases/download/v1.0.0/MusicPlayer-v1.0.0.apk) |
+| [**admit-card-editor**](https://github.com/sobuj-here/admit-card-editor) | Web Application | HTML5 Canvas, JavaScript, CSS3 | [**Launch Web App**](https://sobuj-here.github.io/admit-card-editor/) • [**Source Code**](https://github.com/sobuj-here/admit-card-editor) |
 | [**Software**](https://github.com/sobuj-here/Software) | Developer Utilities | Curated Tools & Runtimes | [**Explore Catalog**](https://github.com/sobuj-here/Software) |
-| [**EXEL-Sheet-Template**](https://github.com/sobuj-here/EXEL-Sheet-Template) | Financial Spreadsheets | Dynamic Array Formulas, Excel | [**Sheets Template**](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy) â€¢ [**Repo**](https://github.com/sobuj-here/EXEL-Sheet-Template) |
+| [**EXEL-Sheet-Template**](https://github.com/sobuj-here/EXEL-Sheet-Template) | Financial Spreadsheets | Dynamic Array Formulas, Excel | [**Sheets Template**](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy) • [**Repo**](https://github.com/sobuj-here/EXEL-Sheet-Template) |
 | [**Assignment_Cover_Pages**](https://github.com/sobuj-here/Assignment_Cover_Pages) | Document Templates | PDF, Print-Ready A4 Formats | [**View Templates**](https://github.com/sobuj-here/Assignment_Cover_Pages) |
 | [**Presentation**](https://github.com/sobuj-here/Presentation) | Slide Presentations | PowerPoint Slide Decks (.pptx) | [**View Slide Decks**](https://github.com/sobuj-here/Presentation) |
+| [**thrynx**](https://github.com/sobuj-here/thrynx) | Mobile Multimedia & Creative Studio | Kotlin, Jetpack Compose, Media3, Room | [**Source Code**](https://github.com/sobuj-here/thrynx) &nbsp;&nbsp; [**APK (v1.0.0)**](https://github.com/sobuj-here/thrynx/releases/download/v1.0.0/app-debug.apk) |
 
 ---
 
-## ðŸ“¬ Connect With Me
+## 📬 Connect With Me
 
-- ðŸ“§ **Email**: [sobuj.here.420@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sobuj.here.420@gmail.com)
-- ðŸ™ **GitHub Profile**: [github.com/sobuj-here](https://github.com/sobuj-here)
+- 📧 **Email**: [sobuj.here.420@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sobuj.here.420@gmail.com)
+- 🐙 **GitHub Profile**: [github.com/sobuj-here](https://github.com/sobuj-here)
 
 ---
 
 <div align="center">
-  <sub>Designed with â¤ï¸ by <b><a href="https://github.com/sobuj-here">Md. Sobuj Ali</a></b></sub>
+  <sub>Designed with ❤️ by <b><a href="https://github.com/sobuj-here">Md. Sobuj Ali</a></b></sub>
 </div>
