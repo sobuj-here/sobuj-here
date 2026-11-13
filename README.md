@@ -171,22 +171,22 @@
       </a>
     </td>
     <td width="68%" valign="top">
-      <h3>🚀 <a href="https://github.com/sobuj-here/thrynx">THRYNX — All-in-One Multimedia Player, Video Editor & Creative Studio</a></h3>
-      <p>A flagship native Android multimedia power-station combining an advanced video player, CapCut-grade multi-track video editor, audio editing studio, music player, and photo-to-video slideshow maker.</p>
+      <h3>🚀 <a href="https://github.com/sobuj-here/thrynx">THRYNX — Professional Video Player for Android (MX Player Rebuild)</a></h3>
+      <p>A high-performance, premium native Android Video Player inspired by MX Player, featuring full-screen gesture controls, Media3 ExoPlayer hardware acceleration, multi-audio track switching, subtitle sync delay offset, and a PIN-protected Private Vault.</p>
       <ul>
-        <li><b>Advanced Video Player:</b> Multi-audio track switching (English, বাংলা, Hindi, Original) without video restarts, subtitle styling, gesture controls, PiP, and audio-only background mode.</li>
-        <li><b>Creative Video Editor:</b> Multi-track timeline (Video, Audio, Text, Overlay), keyframes, speed control (0.25x–4x), transitions, and color grading.</li>
-        <li><b>Music Studio & Visualizer:</b> Local music library, real-time audio amplitude visualizer, sleep timer, and background playback via MediaSessionService.</li>
-        <li><b>Photo-to-Video Maker:</b> Ken Burns zoom effect, soundtrack synchronization, and multi-aspect ratio (16:9, 9:16, 1:1, 4:5) exports.</li>
-        <li><b>Dual Language & Offline-First:</b> Full English & বাংলা localization. 100% offline with zero cloud tracking.</li>
+        <li><b>MX Player-Style Gestures:</b> Vertical swipe for brightness (left) & volume (right), horizontal swipe to seek, double-tap ±10s, and long-press 2x speed.</li>
+        <li><b>Multi-Audio & Subtitles:</b> Instant multi-language audio track switching without video reloads, external subtitle loader (.srt, .vtt, .ass), and millisecond sync offset.</li>
+        <li><b>Private Vault:</b> Secure, PIN-protected hidden vault with SHA-256 hash to keep private media isolated from standard gallery scanners.</li>
+        <li><b>4 Dedicated Tabs:</b> Clean navigation with Home (Continue Watching & Carousels), Videos (List/Grid & Duration Filters), Folders (SAF Custom Folders & Drill-down), and Settings.</li>
+        <li><b>100% Offline-First & Dual-Language:</b> Complete English & বাংলা localization parity. Zero cloud tracking, zero ads, zero telemetry.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-1.9+-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
         <img src="https://img.shields.io/badge/Media3%20ExoPlayer-1.2.1-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Room-SQLite-00599C?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Languages-English%20%7C%20বাংলা-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Storage-100%25%20Offline-107C41?style=flat-square" />
+        <img src="https://img.shields.io/badge/Room-SQLite%20v3-00599C?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Languages-English%20%7C%20%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Privacy-100%25%20Offline-107C41?style=flat-square" />
       </p>
       <p>
         <a href="https://github.com/sobuj-here/thrynx"><b>🔗 Source Code</b></a> &nbsp;&nbsp; 
@@ -212,7 +212,7 @@ A complete directory of all publicly accessible repositories and open-source pro
 | [**EXEL-Sheet-Template**](https://github.com/sobuj-here/EXEL-Sheet-Template) | Financial Spreadsheets | Dynamic Array Formulas, Excel | [**Sheets Template**](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy) • [**Repo**](https://github.com/sobuj-here/EXEL-Sheet-Template) |
 | [**Assignment_Cover_Pages**](https://github.com/sobuj-here/Assignment_Cover_Pages) | Document Templates | PDF, Print-Ready A4 Formats | [**View Templates**](https://github.com/sobuj-here/Assignment_Cover_Pages) |
 | [**Presentation**](https://github.com/sobuj-here/Presentation) | Slide Presentations | PowerPoint Slide Decks (.pptx) | [**View Slide Decks**](https://github.com/sobuj-here/Presentation) |
-| [**thrynx**](https://github.com/sobuj-here/thrynx) | Mobile Multimedia & Creative Studio | Kotlin, Jetpack Compose, Media3, Room | [**Source Code**](https://github.com/sobuj-here/thrynx) &nbsp;&nbsp; [**APK (v1.0.0)**](https://github.com/sobuj-here/thrynx/releases/download/v1.0.0/app-debug.apk) |
+| [**thrynx**](https://github.com/sobuj-here/thrynx) | Professional Video Player (MX Rebuild) | Kotlin, Jetpack Compose, Media3 ExoPlayer, Room SQLite | [**Source Code**](https://github.com/sobuj-here/thrynx) &nbsp;&nbsp; [**APK (v1.0.0)**](https://github.com/sobuj-here/thrynx/releases/download/v1.0.0/app-debug.apk) |
 
 ---
 
