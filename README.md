@@ -171,26 +171,29 @@
       </a>
     </td>
     <td width="68%" valign="top">
-      <h3>🚀 <a href="https://github.com/sobuj-here/thrynx">THRYNX — High-Performance Native Video Player for Android</a></h3>
-      <p>A high-performance native Android Video Player engineered with precision dual-axis touch controls, hardware-accelerated Media3 ExoPlayer decoding, dynamic multi-language audio routing, real-time subtitle synchronization, and a PIN-protected Private Vault.</p>
+      <h3>🚀 <a href="https://github.com/sobuj-here/thrynx">THRYNX — Native Video & Audio Media Studio for Android</a></h3>
+      <p>A flagship native multimedia powerhouse engineered with hardware-accelerated 4K ExoPlayer video decoding, integrated YouTube Music discovery, an offline audio downloader, 10-band parametric equalizer, real-time synchronized lyrics, smart call/Bluetooth audio focus, and a PIN-protected Private Vault.</p>
       <ul>
-        <li><b>Precision Touch Gestures:</b> Vertical swipe for brightness (left) & volume (right), horizontal swipe to seek, double-tap ±10s, and long-press 2x speed.</li>
-        <li><b>Multi-Audio & Subtitles:</b> Instant multi-language audio track switching without video reloads, external subtitle loader (.srt, .vtt, .ass), and millisecond sync offset.</li>
-        <li><b>Private Vault:</b> Secure, PIN-protected hidden vault with SHA-256 hash to keep private media isolated from standard gallery scanners.</li>
-        <li><b>4 Dedicated Tabs:</b> Clean navigation with Home (Continue Watching & Carousels), Videos (List/Grid & Duration Filters), Folders (SAF Custom Folders & Drill-down), and Settings.</li>
-        <li><b>100% Offline-First & Dual-Language:</b> Complete English & বাংলা localization parity. Zero cloud tracking, zero ads, zero telemetry.</li>
+        <li><b>YouTube Music Discovery & Background Play:</b> Online music search, trending mood chips, lock-screen media controls, and seamless background playback.</li>
+        <li><b>Offline Audio Downloader:</b> One-tap download of audio streams directly to device storage (<code>Music/THRYNX</code>) with instant MediaStore indexing.</li>
+        <li><b>Apple Music-Style Player & 10-Band EQ:</b> Ambient dynamic mesh gradient synced to album art, precision non-blocking scrubber, word-synced LRCLIB lyrics, and 10-band parametric equalizer.</li>
+        <li><b>Smart Call & Bluetooth Audio Focus:</b> Automatically pauses during phone calls and resumes seamlessly; auto-pauses when headphones disconnect.</li>
+        <li><b>4K Video Engine & Dual-Action Streams:</b> Touch gestures for volume/brightness/seek, pinch-to-zoom 1.0x-4.0x, multi-audio/subtitle switching, and dual-action network stream player.</li>
+        <li><b>Categorized Settings & Private Vault:</b> 6-category settings hub and a biometric/PIN isolated private vault with SHA-256 security.</li>
       </ul>
       <p>
+        <img src="https://img.shields.io/badge/Version-v1.2.0-00E5FF?style=flat-square&logo=android&logoColor=white" />
         <img src="https://img.shields.io/badge/Kotlin-1.9+-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
         <img src="https://img.shields.io/badge/Media3%20ExoPlayer-1.2.1-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Room-SQLite%20v3-00599C?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Room-SQLite%20v4-00599C?style=flat-square&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/Languages-English%20%7C%20%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Privacy-100%25%20Offline-107C41?style=flat-square" />
+        <img src="https://img.shields.io/badge/Audio-10--Band%20EQ-00E676?style=flat-square" />
       </p>
       <p>
         <a href="https://github.com/sobuj-here/thrynx"><b>🔗 Source Code</b></a> &nbsp;&nbsp; 
-        <a href="https://github.com/sobuj-here/thrynx/releases/download/v1.0.0/app-debug.apk"><b>⚡ Download APK (v1.0.0)</b></a>
+        <a href="https://github.com/sobuj-here/thrynx/releases/download/v1.2.0/THRYNX-v1.2.0.apk"><b>⚡ Download APK (v1.2.0)</b></a> &nbsp;&nbsp;
+        <a href="https://github.com/sobuj-here/thrynx/releases/tag/v1.2.0"><b>📦 Release Notes</b></a>
       </p>
     </td>
   </tr>
@@ -212,7 +215,7 @@ A complete directory of all publicly accessible repositories and open-source pro
 | [**EXEL-Sheet-Template**](https://github.com/sobuj-here/EXEL-Sheet-Template) | Financial Spreadsheets | Dynamic Array Formulas, Excel | [**Sheets Template**](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy) • [**Repo**](https://github.com/sobuj-here/EXEL-Sheet-Template) |
 | [**Assignment_Cover_Pages**](https://github.com/sobuj-here/Assignment_Cover_Pages) | Document Templates | PDF, Print-Ready A4 Formats | [**View Templates**](https://github.com/sobuj-here/Assignment_Cover_Pages) |
 | [**Presentation**](https://github.com/sobuj-here/Presentation) | Slide Presentations | PowerPoint Slide Decks (.pptx) | [**View Slide Decks**](https://github.com/sobuj-here/Presentation) |
-| [**thrynx**](https://github.com/sobuj-here/thrynx) | Professional Native Video Player | Kotlin, Jetpack Compose, Media3 ExoPlayer, Room SQLite | [**Source Code**](https://github.com/sobuj-here/thrynx) &nbsp;&nbsp; [**APK (v1.0.0)**](https://github.com/sobuj-here/thrynx/releases/download/v1.0.0/app-debug.apk) |
+| [**thrynx**](https://github.com/sobuj-here/thrynx) | Native Media Studio & Music Player | Kotlin, Compose, Media3, Room | [**Source Code**](https://github.com/sobuj-here/thrynx) • [**APK (v1.2.0)**](https://github.com/sobuj-here/thrynx/releases/download/v1.2.0/THRYNX-v1.2.0.apk) |
 
 ---
 
