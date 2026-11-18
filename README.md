@@ -130,7 +130,7 @@
       </p>
       <p>
         <a href="https://github.com/sobuj-here/Music-Player"><b>📂 Source Code</b></a> • 
-        <a href="https://github.com/sobuj-here/Music-Player/releases/download/v1.0.0/MusicPlayer-v1.0.0.apk"><b>📥 Download APK (v1.0.0)</b></a>
+        <a href="https://github.com/sobuj-here/Music-Player/releases/download/v1.1.0/MusicPlayer-v1.1.0.apk"><b>📥 Download APK (v1.1.0)</b></a>
       </p>
     </td>
   </tr>
