@@ -49,7 +49,7 @@
   <!-- CVForge Card -->
   <tr>
     <td width="32%" align="center" valign="middle">
-      <a href="https://github.com/sobuj-here/CVForge">
+      <a href="https://sobuj-here.github.io/CVForge/">
         <img src="https://raw.githubusercontent.com/sobuj-here/CVForge/main/assets/icons/icon-512.png" width="100%" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.25);" alt="CVForge 10-in-1 Generator" />
       </a>
     </td>
@@ -64,6 +64,7 @@
       </ul>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/GitHub%20Pages-Live%20Website-2ea44f?style=flat-square&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/Platform-Web%20Browser-orange?style=flat-square&logo=googlechrome&logoColor=white" />
         <img src="https://img.shields.io/badge/Export-DOCX%20%7C%20PDF-0078D4?style=flat-square&logo=microsoftword&logoColor=white" />
         <img src="https://img.shields.io/badge/Privacy-100%25%20Client--Side-107C41?style=flat-square" />
@@ -71,7 +72,8 @@
       </p>
       <p>
         <a href="https://sobuj-here.github.io/CVForge/"><b>🌐 Live Website</b></a> • 
-        <a href="https://github.com/sobuj-here/CVForge"><b>📂 Source Code</b></a>
+        <a href="https://github.com/sobuj-here/CVForge"><b>📂 Source Code</b></a> • 
+        <a href="https://github.com/sobuj-here/CVForge/releases/tag/v1.0.0"><b>📦 Release v1.0.0</b></a>
       </p>
     </td>
   </tr>
@@ -237,7 +239,7 @@ A complete directory of all publicly accessible repositories and open-source pro
 
 | Repository | Category | Core Stack | Links & Resources |
 | :--- | :--- | :--- | :--- |
-| [**CVForge**](https://github.com/sobuj-here/CVForge) | Professional Web Application | JavaScript, HTML5/CSS3, Tailwind CSS | [**Live Website**](https://sobuj-here.github.io/CVForge/) • [**Source Code**](https://github.com/sobuj-here/CVForge) |
+| [**CVForge**](https://github.com/sobuj-here/CVForge) | Professional Web Application | JavaScript, HTML5/CSS3, Tailwind CSS | [**Live Website**](https://sobuj-here.github.io/CVForge/) • [**Source Code**](https://github.com/sobuj-here/CVForge) • [**Releases**](https://github.com/sobuj-here/CVForge/releases/tag/v1.0.0) |
 | [**MessFlow**](https://github.com/sobuj-here/MessFlow) | Mobile Application | Flutter, Dart, Firebase | [**Source Code**](https://github.com/sobuj-here/MessFlow) • [**APK (v2.1.3)**](https://github.com/sobuj-here/MessFlow/releases/tag/v2.1.3) |
 | [**Poyshakori**](https://github.com/sobuj-here/Poyshakori) | Mobile Application | Kotlin, Room SQLite, Material 3 | [**Source Code**](https://github.com/sobuj-here/Poyshakori) • [**APK (v5.0)**](https://github.com/sobuj-here/Poyshakori/releases/tag/v5.0) |
 | [**Music-Player**](https://github.com/sobuj-here/Music-Player) | Mobile Application | Kotlin, Jetpack Compose, Media3 ExoPlayer, Room | [**Source Code**](https://github.com/sobuj-here/Music-Player) • [**APK (v1.0.0)**](https://github.com/sobuj-here/Music-Player/releases/download/v1.0.0/MusicPlayer-v1.0.0.apk) |
