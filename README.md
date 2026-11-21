@@ -54,24 +54,24 @@
       </a>
     </td>
     <td width="68%" valign="top">
-      <h3>💼 <a href="https://github.com/sobuj-here/CVForge">CVForge — 10-in-1 Professional CV & Resume Generator</a></h3>
-      <p>A modern international CV and Resume builder supporting 10 global formats, 50 professional templates, genuine editable Word (.docx) export, and high-resolution PDF generation for Android and Desktop.</p>
+      <h3>💼 <a href="https://sobuj-here.github.io/CVForge/">CVForge — 10-in-1 Professional CV & Resume Generator</a></h3>
+      <p>A modern international CV and Resume builder supporting 10 global formats, 50 professional templates, genuine editable Word (.docx) export, and high-resolution PDF generation right in your web browser.</p>
       <ul>
         <li><b>10 Formats:</b> Chronological, Reverse Chronological, Functional, Skills-Based, Hybrid, Targeted, Academic, Europass, ATS-Friendly, and Creative.</li>
         <li><b>Genuine DOCX & PDF Export:</b> Native editable Microsoft Word documents with structured tables and recruiter-approved vector PDFs.</li>
-        <li><b>Cross-Platform:</b> Installable Android APK with MediaStore downloads & sharing, plus full desktop browser split-screen preview.</li>
+        <li><b>Browser-Based & Responsive:</b> Works smoothly on Android phones, iPhones, tablets, laptops, and desktop computers with no installation required.</li>
         <li><b>100% Private & Offline:</b> Local storage persistence with JSON profile backups, zero cloud dependencies, and zero tracking.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Android-APK%20(SDK%2034)-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Platform-Web%20Browser-orange?style=flat-square&logo=googlechrome&logoColor=white" />
         <img src="https://img.shields.io/badge/Export-DOCX%20%7C%20PDF-0078D4?style=flat-square&logo=microsoftword&logoColor=white" />
-        <img src="https://img.shields.io/badge/Privacy-100%25%20Offline-107C41?style=flat-square" />
+        <img src="https://img.shields.io/badge/Privacy-100%25%20Client--Side-107C41?style=flat-square" />
         <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
       </p>
       <p>
-        <a href="https://github.com/sobuj-here/CVForge"><b>📂 Source Code</b></a> • 
-        <a href="https://github.com/sobuj-here/CVForge/releases/tag/v1.0.0"><b>📥 Download APK (v1.0.0)</b></a>
+        <a href="https://sobuj-here.github.io/CVForge/"><b>🌐 Live Website</b></a> • 
+        <a href="https://github.com/sobuj-here/CVForge"><b>📂 Source Code</b></a>
       </p>
     </td>
   </tr>
@@ -237,7 +237,7 @@ A complete directory of all publicly accessible repositories and open-source pro
 
 | Repository | Category | Core Stack | Links & Resources |
 | :--- | :--- | :--- | :--- |
-| [**CVForge**](https://github.com/sobuj-here/CVForge) | Mobile & Web Application | JavaScript, Android SDK 34, HTML5/CSS3 | [**Source Code**](https://github.com/sobuj-here/CVForge) • [**APK (v1.0.0)**](https://github.com/sobuj-here/CVForge/releases/tag/v1.0.0) |
+| [**CVForge**](https://github.com/sobuj-here/CVForge) | Professional Web Application | JavaScript, HTML5/CSS3, Tailwind CSS | [**Live Website**](https://sobuj-here.github.io/CVForge/) • [**Source Code**](https://github.com/sobuj-here/CVForge) |
 | [**MessFlow**](https://github.com/sobuj-here/MessFlow) | Mobile Application | Flutter, Dart, Firebase | [**Source Code**](https://github.com/sobuj-here/MessFlow) • [**APK (v2.1.3)**](https://github.com/sobuj-here/MessFlow/releases/tag/v2.1.3) |
 | [**Poyshakori**](https://github.com/sobuj-here/Poyshakori) | Mobile Application | Kotlin, Room SQLite, Material 3 | [**Source Code**](https://github.com/sobuj-here/Poyshakori) • [**APK (v5.0)**](https://github.com/sobuj-here/Poyshakori/releases/tag/v5.0) |
 | [**Music-Player**](https://github.com/sobuj-here/Music-Player) | Mobile Application | Kotlin, Jetpack Compose, Media3 ExoPlayer, Room | [**Source Code**](https://github.com/sobuj-here/Music-Player) • [**APK (v1.0.0)**](https://github.com/sobuj-here/Music-Player/releases/download/v1.0.0/MusicPlayer-v1.0.0.apk) |
